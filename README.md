@@ -1,2 +1,2 @@
 # Brief1
-<img src="mockup.jpg" alt="mockup"/>
+<img src="Mokup_XD.jpg" alt="mockup"/>
